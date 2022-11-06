@@ -1,0 +1,19 @@
+* {
+    text-align: center;
+}
+
+#list {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.img {
+    max-width: 500px;
+    max-height: 500px;
+}
+
+ul, ol, li {
+    display: flex;
+    flex-direction: column;
+}
